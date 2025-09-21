@@ -1,2 +1,2 @@
-## Recipe project from Odin
+## Recipe project from Odin Project
 ### First steps on html and css...
